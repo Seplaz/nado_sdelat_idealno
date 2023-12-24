@@ -49,7 +49,6 @@ body::before {
 .page__heading {
   position: static;
   z-index: 0;
-  margin: 0;
   margin: 0 auto;
   padding: 60px 430px 432px 431px;
   color: #000;
