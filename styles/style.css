@@ -46,6 +46,7 @@ body::before {
   text-transform: uppercase;
   background-color: #fff;
   white-space: pre;
+  top: 182px;
 }
 
 .page__heading {
