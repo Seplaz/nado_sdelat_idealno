@@ -40,10 +40,11 @@ body::before {
   color: #000;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
+  font-style: normal;
   font-size: 35px;
   line-height: 35px;
   text-align: start;
-  text-transform: uppercase;
+  text-transform: none;
   background-color: #fff;
   white-space: pre;
   top: 182px;
