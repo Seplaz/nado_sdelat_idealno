@@ -29,6 +29,7 @@ body::before {
 }
 
 .page__heading:hover::before {
+  display: flex;
   content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
   position: absolute;
   z-index: 2;
