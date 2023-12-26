@@ -48,7 +48,6 @@ body::before {
 }
 
 .page__heading {
-  position: static;
   z-index: 0;
   margin: 0 auto;
   padding-top: 60px;
